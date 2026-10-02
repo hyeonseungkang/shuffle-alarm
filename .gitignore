@@ -2,6 +2,8 @@
 
 ecosystem.config.js
 .env*
+.idea/
+.serena/
 
 # dependencies
 /node_modules
